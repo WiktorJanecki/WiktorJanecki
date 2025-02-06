@@ -1,6 +1,13 @@
-# Hello 
+<div align="left">
+  <h1>
+    Hello! 👋 I'm Wiktor
+  </h1></div>
 
-todo here
+👋 Hi! I'm a 20-year-old Computer Science & AI student at AGH University  
+🚀 Founder of [Farmcoz](https://store.steampowered.com/app/2763510/Farmcoz/), a video game with over 1000 copies sold!   
+⚙️ Passionate about writting fast, safe and scalable code  
+📖 My programming journey began in 2017 when I set out to learn game development  
+💪 Experience with creating micro services, writting 3D game engines and making websites  
 
 
 <h1 align="left">My Tech Stack</h1>
