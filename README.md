@@ -6,7 +6,7 @@
 👋 Hi! I'm a 20-year-old Computer Science & AI student at AGH University  
 🚀 Founder of [Farmcoz](https://store.steampowered.com/app/2763510/Farmcoz/), a video game with over **1,000** copies sold!   
 ⚙️ Passionate about writing fast, **safe** and scalable code  
-📖 My programming journey began in **2017** when I set out to learn game development  
+📖 My programming journey began in **2016** when I set out to learn game development  
 💪 Experience with creating **microservices**, developing custom 3D game engines and creating websites  
 
 
